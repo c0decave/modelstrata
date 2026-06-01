@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 120 120" role="img" aria-label="modelstrata">
+  <title>modelstrata</title>
+  <!-- dark panel tile (matches dashboard --panel on --bg) -->
+  <rect x="2" y="2" width="116" height="116" rx="22" fill="#0f1513" stroke="#1d2925" stroke-width="1.5"/>
+  <!-- left cut-edge / alignment spine -->
+  <rect x="23.5" y="24" width="2" height="84" rx="1" fill="#4ade80" opacity="0.28"/>
+  <!-- strata: stacked layers of a model, read straight off disk -->
+  <g>
+    <rect x="27" y="24" width="60" height="9" rx="4.5" fill="#4ade80"/>
+    <rect x="27" y="39" width="42" height="9" rx="4.5" fill="#4ade80"/>
+    <rect x="27" y="54" width="66" height="9" rx="4.5" fill="#ffb547"/>
+    <rect x="27" y="69" width="34" height="9" rx="4.5" fill="#4ade80"/>
+    <rect x="27" y="84" width="52" height="9" rx="4.5" fill="#38e1d4"/>
+    <rect x="27" y="99" width="46" height="9" rx="4.5" fill="#4ade80"/>
+  </g>
+</svg>

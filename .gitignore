@@ -1,0 +1,25 @@
+# --- caches / build / editor junk ---
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*.bak
+*.tmp
+.DS_Store
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# --- virtualenvs ---
+.venv/
+venv/
+
+# --- model weights (never commit) ---
+*.gguf
+*.safetensors
+*.onnx
+
+# --- generated, host-specific output ---
+reports/
+report_demo/
+
